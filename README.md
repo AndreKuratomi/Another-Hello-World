@@ -1,4 +1,4 @@
-# The young boy's trick with rice and a chess border.
+# The young indian boy's request with Python.
 
 """"As I'm new here in GitHub I decided to try to code that indian story of the young man, the king, the chess border and the rice seeds.
 
