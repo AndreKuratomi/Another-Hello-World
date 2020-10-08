@@ -1,2 +1,2 @@
 # Another-Hello-World
-Getting used to use GitHub.
+Getting used to GitHub.
