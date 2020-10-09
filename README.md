@@ -10,11 +10,11 @@ Here's my attempt to solve this using Python. Good luck for me!"""
 
 class RiceSeedsOnChess:
 
-	def __init__(self, square): ("""square = square number on chess border""")
+	def __init__(self, square): """square = square number on chess border"""
 	
 		self.square=square
 		
-	def amount(self): ("""amount = amount of rice seeds at the square number"")
+	def amount(self): """amount = amount of rice seeds at the square number"""
 	
 		return 2**(self.square-1)
 		
